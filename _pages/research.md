@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research projects"
 permalink: /research/
 author_profile: true
 ---
@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 <br/> 
-
+<br/> 
 
 # <center> Research projects </center>
 - - -
@@ -25,8 +25,7 @@ We design, describe and implement a statistical engine to analyze the performanc
 </small><br><br/></div>
 
 **The heterogeneous response of real estate asset prices to a global shock.** (with W. Koeniger and M. Lechner). <br/>
-<small>[ <a href="#/" onclick="visib('re21')">Abstract</a> | [Working Paper][1] ] </small>
-[1]: {{ site.baseurl }}{% link files/Paper_HKL.pdf %}
+<small>[ <a href="#/" onclick="visib('re21')">Abstract</a> | <a href="files/Paper_HKL.pdf">Working Paper</a> ] </small>
 
 <div id="re21" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We estimate the transmission of the pandemic shock in 2020 to prices in the residential and commercial real estate market by causal machine learning, using granular data at the municipal level for Germany. We exploit differences in the incidence of Covid infections and short-time work at the municipal level for the identification of epidemiological and economic efects of the pandemic. We find that (i) a larger incidence of Covid infections temporarily reduced rents for retail real estate; (ii) a larger incidence of short-time work temporarily reduced rents of office real estate; and (iii) the pandemic increased asset prices of real estate, particularly in the top price segment of commercial real estate.
@@ -54,6 +53,8 @@ The monitoring of judges in sports is an important topic due to the media exposu
 <div id="matrix_completion" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Matrix completion estimators for causal panel data models use nuclear norm minimization to regularize the rank of the underlying factor model. This convex optimization problem allows for a simultaneous regularization of a potentially high-dimensional set of covariates. This integrated model selection property does not affect the theoretical bounds of the estimator. A two-step procedure with first selecting the optimal model and a second estimation without covariate regularisation ensures unbiased estimates of the average treatment effects on the treated. Simulations show that the proposed estimator is  consistent in parameter estimation and variable selection. 
 </small><br><br/></div>
+<br/> 
+- - - 
 
 # Early stage projects
 
