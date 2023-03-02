@@ -2,7 +2,7 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /teaching/
+permalink: /teaching_port/
 author_profile: true
 ---
 
