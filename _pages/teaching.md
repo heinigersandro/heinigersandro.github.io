@@ -1,9 +1,9 @@
 
 ---
-title: Teaching
-layout: single
-classes: wide
+layout: archive
+title: "Teaching"
 permalink: /teaching/
+author_profile: true
 ---
 
 I hold several teaching experiences at the undergraduate and graduate levels. Already as a student at ETH, I have started to teach exercise sessions which have always been a great pleasure. 
