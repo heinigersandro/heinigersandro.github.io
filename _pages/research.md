@@ -10,7 +10,6 @@ author_profile: true
 {% endif %}
 
 <br/> 
-<br/> 
 
 - - -
 
@@ -24,21 +23,21 @@ We design, describe and implement a statistical engine to analyze the performanc
 </small><br><br/></div>
 
 **The heterogeneous response of real estate asset prices to a global shock.** (with W. Koeniger and M. Lechner). <br/>
-<small>[ <a href="#/" onclick="visib('re21')">Abstract</a> | <a href="./files/Paper_HKL.pdf" target="_blank" rel="noopener noreferrer">Working Paper</a> ] </small>
+<small>[ <a href="#/" onclick="visib('re21')">Abstract</a> | <a href="../files/Paper_HKL.pdf" target="_blank" rel="noopener noreferrer">Working Paper</a> ] </small>
 
 <div id="re21" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We estimate the transmission of the pandemic shock in 2020 to prices in the residential and commercial real estate market by causal machine learning, using granular data at the municipal level for Germany. We exploit differences in the incidence of Covid infections and short-time work at the municipal level for the identification of epidemiological and economic efects of the pandemic. We find that (i) a larger incidence of Covid infections temporarily reduced rents for retail real estate; (ii) a larger incidence of short-time work temporarily reduced rents of office real estate; and (iii) the pandemic increased asset prices of real estate, particularly in the top price segment of commercial real estate.
 </small><br><br/></div>
 
 **A general framework to quantify the event importance in multi-event contests.** (with D. Goller). <br/>
-<small>[ <a href="#/" onclick="visib('event_importance')">Abstract</a> | <a href="./files/Paper_GH.pdf" target="_blank" rel="noopener noreferrer">Working Paper</a> ] </small>
+<small>[ <a href="#/" onclick="visib('event_importance')">Abstract</a> | <a href="../files/Paper_GH.pdf" target="_blank" rel="noopener noreferrer">Working Paper</a> ] </small>
 
 <div id="event_importance" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We propose a statistical framework for quantifying the importance of single events that do not provide intermediate rewards but offer implicit incentives through scheduling and the reward structure at the end of a multi-event contest. Applying the framework to primary elections in the US, where earlier elections have greater importance and influence, we show that schedule variations can mitigate the problem of front-loading elections. When applied to European football, we demonstrate the utility and meaningfulness of quantified event importance in relation to the in-match performance of contestants, to improve outcome prediction and to provide an early indication of public interest.
 </small><br><br/></div>
 
 **Judging the judges: A general framework for evaluating the performance of international sports judges.** (with H. Mercier). <br/>
-<small>[ <a href="#/" onclick="visib('judging2018')">Abstract</a> | <a href="./files/Paper_HM.pdf" target="_blank" rel="noopener noreferrer">Working Paper</a> ] </small>
+<small>[ <a href="#/" onclick="visib('judging2018')">Abstract</a> | <a href="../files/Paper_HM.pdf" target="_blank" rel="noopener noreferrer">Working Paper</a> ] </small>
 
 <div id="judging2018" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The monitoring of judges in sports is an important topic due to the media exposure of international sporting events and the huge monetary sums that directly depend on the outcomes of competitions. We present a method to assess the accuracy of sports judges applicable to all sports where panels of judges evaluate athletic performances on a finite scale. We analyze judging scores from eight different sports with comparable judging systems: artistic swimming, diving, dressage, figure skating, freestyle skiing, freestyle snowboard, gymnastics and ski jumping. We identify, for each aforementioned sport, a general and accurate pattern of the intrinsic judging error variability as a function of the performance level of the athlete. With the notable exception of dressage, this intrinsic judging inaccuracy is heteroscedastic and can be approximated by a concave quadratic curve, indicating increased consensus among judges towards the best athletes. Using this observation, we can evaluate the performance of judges compared to their peers, and distinguish erratic from precise judges and potential cheating from unintentional misjudging. Our analysis also reveals valuable insights about the judging practices of the sports under consideration, including a systemic problem in dressage where judges disagree on what constitutes a good performance.
