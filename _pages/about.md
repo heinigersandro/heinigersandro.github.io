@@ -13,4 +13,4 @@ I am a 5th year PhD Candidate at the University of St.Gallen in specialisation '
 
 My research interests lie in the development and advancement of estimation methods for causal analysis, particularly causal machine learning. I have, furthermore, been dedicated to applying state-of-the-art data analysis and causal estimation methods to various domains in social and human sciences. I enjoy the possibility of combining quantitative work with my passion for research questions involving internal and external factors affecting human decisions and interactions, as well as the resulting social behaviour from them.
 
-Prior to my PhD, I obtained an undergraduate degree in Computational Science and Engineering from ETH Zurich and a master's degree in Statistics from the University of Neuchatel.
+Prior to my PhD, I obtained an bachelor's degree in Computational Science and Engineering from ETH Zurich and a master's degree in Statistics from the University of Neuchatel.
