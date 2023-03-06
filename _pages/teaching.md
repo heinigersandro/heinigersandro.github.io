@@ -5,10 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I hold several teaching experiences at the undergraduate and graduate levels. Already as a student at ETH, I have started to teach exercise sessions which have always been a great pleasure. 
-In the course of my research assistant position at the SEW-HSG, I have assisted numerous courses and supervised bachelor's and master's theses. Amongst others, the effected teaching assistances cover Predicitive Econometrics courses at graduate level and Statistical Programming at undergraduate level.
+I have gained extensive experience in teaching both undergraduate and graduate courses. During my time as a student at ETH, I began teaching exercise sessions and found it to be very rewarding. As a research assistant at SEW-HSG, I have assisted with various courses and provided supervision for numerous bachelor's and master's theses. My teaching experience includes courses such as Predictive Econometrics at the graduate level and Statistical Programming at the undergraduate level.
 
-A full list of teaching assistances and supervisions can be consulted in the [<a href="../files/github_Teaching_Portfolio.pdf" target="_blank" rel="noopener noreferrer">Teaching Portfolio</a> ]
+For a comprehensive list of my teaching experience and supervision, please refer to my  [<a href="../files/github_Teaching_Portfolio.pdf" target="_blank" rel="noopener noreferrer">Teaching Portfolio</a> ]
 
-I value teaching as an integral part of an academic position and am commited to promoting and mentoring young academics.
+In addition to promoting and mentoring young academics, I believe that teaching is also an opportunity for me to continue learning and improving my own skills as a researcher and educator. I strive to create a supportive and inclusive learning environment for all of my students, and I am always seeking new ways to engage them and facilitate their understanding of complex topics. Whether through incorporating real-world examples, encouraging class discussions, or utilizing innovative teaching technologies, I am committed to providing a high-quality educational experience for all of my students.
 
