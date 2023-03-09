@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have gained extensive experience in teaching both undergraduate and graduate courses. During my time as a student at ETH, I began teaching exercise sessions and found it to be very rewarding. As a research assistant at SEW-HSG, I have assisted with various courses and provided supervision for numerous bachelor's and master's theses. My teaching experience includes courses such as Predictive Econometrics at the graduate level and Statistical Programming at the undergraduate level.
+I have gained extensive experience in teaching both undergraduate and graduate courses. During my time as a student at ETH, I began teaching exercise sessions and found them to be very rewarding. As a research assistant at SEW-HSG, I have assisted with various courses and provided supervision for numerous bachelor's and master's theses. My teaching experience includes courses such as Predictive Econometrics at the graduate level and Statistical Programming at the undergraduate level.
 
 For a comprehensive list of my teaching experience and supervision, please refer to my  [<a href="../files/github_Teaching_Portfolio.pdf" target="_blank" rel="noopener noreferrer">Teaching Portfolio</a> ]
 
