@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sandro Heiniger"
-  avatar           : "profile_bw.jpg"
+  avatar           : "profile_bw3_crop.jpg"
   bio              : "PhD Candidate in Econometrics at University of St.Gallen."
   location         : "Zurich, Switzerland"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sandro-heiniger-b53718269/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
