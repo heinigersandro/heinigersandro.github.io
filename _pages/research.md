@@ -23,7 +23,7 @@ We estimate the transmission of the pandemic shock in 2020 to the residential an
 </small><br><br/></div>
 
 **A general framework to quantify the event importance in multi-event contests** (with D. Goller). <br/>
-<small>[ <a href="#/" onclick="visib('event_importance')">Abstract</a> | <a href="https://link.springer.com/article/10.1007/s10479-023-05540-x" target="_blank" rel="noopener noreferrer">Paper</a>| <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/F3QA9N" target="_blank" rel="noopener noreferrer">Replication Code</a> ] </small>
+<small>[ <a href="#/" onclick="visib('event_importance')">Abstract</a> | <a href="https://link.springer.com/article/10.1007/s10479-023-05540-x" target="_blank" rel="noopener noreferrer">Paper</a> | <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/F3QA9N" target="_blank" rel="noopener noreferrer">Replication Code</a> ] </small>
 
 <div id="event_importance" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We propose a statistical framework for quantifying the importance of single events that do not provide intermediate rewards but offer implicit incentives through scheduling and the reward structure at the end of a multi-event contest. Applying the framework to primary elections in the US, where earlier elections have greater importance and influence, we show that schedule variations can mitigate the problem of front-loading elections. When applied to European football, we demonstrate the utility and meaningfulness of quantified event importance in relation to the in-match performance of contestants to improve outcome prediction and to provide an early indication of public interest.

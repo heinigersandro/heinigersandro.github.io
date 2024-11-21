@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have developed extensive experience teaching undergraduate and graduate courses in Econometrics, Statistics, and Economics. My teaching journey began during my studies at ETH, where I led exercise sessions — a role I found highly rewarding. As a research assistant at SEW-HSG, I contributed to various courses and supervised numerous bachelor’s and master’s theses. Currently, I serve as a lecturer for the graduate course *Big Data Analytics* at the University of St. Gallen and *Introduction to Econometrics* at UniDistance.
+I have developed extensive experience teaching undergraduate and graduate courses in Econometrics, Statistics, and Economics. My teaching journey began during my studies at ETH, where I led exercise sessions — a role I found highly rewarding. As a research assistant at SEW-HSG, I contributed to various courses and supervised numerous bachelor’s and master’s theses. Currently, I serve as a lecturer for the graduate course *'Big Data Analytics'* at the University of St. Gallen and *'Introduction to Econometrics'* at UniDistance.
 
 For a comprehensive list of my teaching experience and supervision, please refer to my  [<a href="../files/github_Teaching_Portfolio.pdf" target="_blank" rel="noopener noreferrer">Teaching Portfolio</a> ]
 
